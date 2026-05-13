@@ -1,2 +1,2 @@
 # English-Writing-Journal
-My daily English writing practice for improve my language starts with this.
+A long-term English writing journal focused on academic writing, sciencei technology, and personal development.
